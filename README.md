@@ -1,17 +1,18 @@
 # Alarm-phase-recognition
-Cover the gru-svm project [https://github.com/AFAgarap/gru-svm]
+GRU-SVM project [https://github.com/AFAgarap/gru-svm]
 ## Environment Install
-first clone this repository:
+First clone this repository:
 ```
-git clone 
+git clone git@github.com:pppku/Alarm-phase-recognition.git
 ```
-then install the required libraries:
+Second create python and TensorFlow environment:
 ```
-sudo pip install -r requirments.txt
+conda create -n apr python=3.6 tensorflow=1.13.1
 ```
-or
+Then install the required libraries:
 ```
-sudo conda install --yes --file requirments.txt
+pip install -r requirments.txt
 ```
+
 
 
