@@ -1,4 +1,4 @@
-# cover-gru-svm
+# Alarm-phase-recognition
 Cover the gru-svm project [https://github.com/AFAgarap/gru-svm]
 ## Environment Install
 first clone this repository:
